@@ -1,0 +1,6 @@
+D:\Solution\SolutionGameF\BoardF\bin\Debug\BoardF.dll
+D:\Solution\SolutionGameF\BoardF\bin\Debug\BoardF.pdb
+D:\Solution\SolutionGameF\BoardF\obj\Debug\BoardF.csprojAssemblyReference.cache
+D:\Solution\SolutionGameF\BoardF\obj\Debug\BoardF.csproj.CoreCompileInputs.cache
+D:\Solution\SolutionGameF\BoardF\obj\Debug\BoardF.dll
+D:\Solution\SolutionGameF\BoardF\obj\Debug\BoardF.pdb
