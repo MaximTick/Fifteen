@@ -1,0 +1,13 @@
+D:\Solution\SolutionGameF\WindowGameF\bin\Debug\WindowGameF.exe.config
+D:\Solution\SolutionGameF\WindowGameF\bin\Debug\WindowGameF.exe
+D:\Solution\SolutionGameF\WindowGameF\bin\Debug\WindowGameF.pdb
+D:\Solution\SolutionGameF\WindowGameF\obj\Debug\WindowGameF.csprojAssemblyReference.cache
+D:\Solution\SolutionGameF\WindowGameF\obj\Debug\WindowGameF.FormName15.resources
+D:\Solution\SolutionGameF\WindowGameF\obj\Debug\WindowGameF.Properties.Resources.resources
+D:\Solution\SolutionGameF\WindowGameF\obj\Debug\WindowGameF.csproj.GenerateResource.cache
+D:\Solution\SolutionGameF\WindowGameF\obj\Debug\WindowGameF.csproj.CoreCompileInputs.cache
+D:\Solution\SolutionGameF\WindowGameF\obj\Debug\WindowGameF.exe
+D:\Solution\SolutionGameF\WindowGameF\obj\Debug\WindowGameF.pdb
+D:\Solution\SolutionGameF\WindowGameF\bin\Debug\BoardF.dll
+D:\Solution\SolutionGameF\WindowGameF\bin\Debug\BoardF.pdb
+D:\Solution\SolutionGameF\WindowGameF\obj\Debug\WindowGameF.csproj.CopyComplete
